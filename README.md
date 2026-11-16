@@ -30,6 +30,14 @@ I enjoy building practical software applications using Python, backend technolog
 
 ## 🚀 Featured Projects
 
+### 📊 DataLens — CSV Analysis and Cleaning
+
+A Streamlit app that profiles CSV files, detects missing values and duplicates, displays sales metrics, and exports cleaned data.
+
+**Tech:** Python, Streamlit, Pandas
+
+[Live Demo](https://datalens-b8ptmnzbhk2s8f2nii32d8.streamlit.app/) · [View Source](https://github.com/mmanupawar6388/DataLens)
+
 ### 🧠 Emotional Gait Recognition System
 Deep learning application that analyzes human walking patterns using CNN-BiLSTM, attention mechanisms, and computer vision.
 
