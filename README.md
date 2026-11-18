@@ -32,9 +32,9 @@ I enjoy building practical software applications using Python, backend technolog
 
 ### 📊 DataLens — CSV Analysis and Cleaning
 
-A Streamlit app that profiles CSV files, detects missing values and duplicates, displays sales metrics, and exports cleaned data.
+A deployed Streamlit app for profiling and cleaning CSV datasets, exploring sales metrics, and exporting cleaned data. Its assistant calculates supported revenue totals and rankings by city, category, and product, with Gemini providing broader explanations from dataset summaries.
 
-**Tech:** Python, Streamlit, Pandas
+**Tech:** Python, Streamlit, Pandas, NumPy, Google Gemini API
 
 [Live Demo](https://datalens-b8ptmnzbhk2s8f2nii32d8.streamlit.app/) · [View Source](https://github.com/mmanupawar6388/DataLens)
 
