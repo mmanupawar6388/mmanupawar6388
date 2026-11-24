@@ -1,5 +1,5 @@
 
-# Hi, I'm Manu Pawar 👋
+# Hi, I'm Mounesh 👋
 
 ### Aspiring Software Engineer | Python Backend Development | Applied AI
 
